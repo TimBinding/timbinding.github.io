@@ -9,7 +9,8 @@ name: Green / Prep Guide
 description: Green guide to show technological (and eventually) traditional / tribal solutions to the climate crisis.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/TimBinding/timbinding/master/images/favicon.png
+avatar: 
+# https://raw.githubusercontent.com/TimBinding/timbinding.github.io/master/favicon.png
 
 #
 # Flags below are optional
