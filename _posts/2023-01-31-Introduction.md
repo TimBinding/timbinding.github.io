@@ -1,6 +1,9 @@
+---
+layout: post
+title: You're up and running!
+---
 
-
-Summary technological recommendations:
+#### Summary technological recommendations
 Solar panels
 Ridgeblade turbines (wind turbine on house)
 Water harvesting system with effective filteration for house water
