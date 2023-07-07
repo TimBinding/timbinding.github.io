@@ -1,6 +1,5 @@
 ---
 layout: post
-
 ---
 
 #### Summary technological recommendations
