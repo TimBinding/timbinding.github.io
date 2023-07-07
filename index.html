@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
 
 <div class="posts">
   {% for post in site.posts %}
@@ -13,8 +14,6 @@ layout: default
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-
-      <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
     </article>
   {% endfor %}
 </div>
