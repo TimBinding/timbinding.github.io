@@ -4,11 +4,12 @@ title: Guide Links
 permalink: /green-prep-guide-links/
 ---
 
--- Electric generation --
+### Electric Generation
+
 Solar Panels
 Solar Tile Roofing - Example: https://www.gb-sol.co.uk/products/pvslates/default.htm
 
-Direction of sun
+Direction of sun:
 https://sun-direction.com/
 
 Solar panel calculator:
@@ -27,7 +28,7 @@ Solar panel quotes:
 https://www.greenmatch.co.uk/blog/2014/08/what-is-the-installation-cost-for-solar-panels
 https://www.greenmatch.co.uk/solar-energy/solar-panels
 
--- Recycling --
+### Recycling
 Terracycle:
 https://www.youtube.com/watch?v=o5JqrdxnZfg
 https://www.terracycle.com/en-GB/about-terracycle/drop_off_locations#@51.44682577439605:-3.2058064978942813zoom:12&1-20of18
@@ -35,14 +36,14 @@ https://www.terracycle.com/en-GB/about-terracycle/drop_off_locations#@51.4468257
 Tells you how to recycle a particular item based on where you live:
 https://www.walesrecycles.org.uk/
 
--- Heating --
+### Heating
 Along with solar panels having electric boilers instead will save you money.
 Electric boilers:
 https://www.electric-heatingcompany.co.uk/electric-boilers/
 https://www.screwfix.com/c/heating-plumbing/boilers/cat6660001?calcfueltype=electric
 https://www.plumbnation.co.uk/electric-boilers-168-0000
 
--- Water --
+### Water
 Water harvesting:
 https://rainharvesting.co.uk/
 https://www.rainwaterharvesting.co.uk/
@@ -61,18 +62,20 @@ Underground rainwater collection:
 https://www.graf.info/en/rainwater-harvesting.html
 https://www.rainwatersolutions.co.uk/water-tanks/under-ground-water-tanks
 
-- Water usage -
+#### Water Usage
 https://www.youtube.com/shorts/xDYbjdbcfas
 
 Handheld Bidet Sprayer - https://www.youtube.com/watch?v=9tdoXj_KkwE
 OR
 Bidet for a cleaner BUTT - https://www.youtube.com/watch?v=juilRGZXLwM
 
--- Food --
+### Food
 Baking bread method (adapt recipe to suit needs):
 https://www.youtube.com/watch?v=GuPoDEswQGQ
 
--- UsedClothing --
+### Buying Used
+
+#### Used Clothing
 Shopping at charity shops
 
 Thrift stores uk:
@@ -85,14 +88,14 @@ https://thrift.plus/
 https://www.beyondretro.com/collections/men?gender=Gender%3Amen
 https://gothrift.co.uk/
 
--- Used items --
+#### Used Items
 https://www.gumtree.com/
 Benthyg Cymru - https://penarth.benthyg.cymru/
 https://www.preloved.co.uk/
 https://www.for-sale.co.uk/
 https://www.shpock.com/en-gb
 
--- Buying appliances --
+#### Buying Appliances
 Look for energy star from american projects
 https://appliance.report/
 https://www.energystar.gov/products/products_list
@@ -121,7 +124,8 @@ https://ourworldindata.org/co2/country/united-kingdom
 Electric vehicle charging points:
 https://www.carwow.co.uk/electric-cars/charging-points
 
--- Other --
+### Relgion And History
+Why must we make these changes.
 
 Lockdowns:
 15 days of darkness to come?
