@@ -1,6 +1,7 @@
 ---
 layout: index
 title: Tech
+permalink: /primitive-solutions/
 ---
 
 # Test
