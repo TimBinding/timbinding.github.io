@@ -125,7 +125,7 @@ Look for energy star from american projects
 <https://www.carwow.co.uk/electric-cars/charging-points>
 
 ### Relgion And History
-Why must we make these changes.
+<p>Why must we make <br> these changes.</p>
 
 #### Tradegy of progress
 Isaiah 17:9-11
