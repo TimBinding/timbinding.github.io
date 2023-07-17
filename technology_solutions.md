@@ -1,5 +1,5 @@
 ---
 layout: index
-title: Tech
+title: Technological Solutions
 permalink: /tech-solutions/
 ---
