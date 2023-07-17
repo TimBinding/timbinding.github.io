@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Tech
+title: Primitive Solutions
 permalink: /primitive-solutions/
 ---
 
