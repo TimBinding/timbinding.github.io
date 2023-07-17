@@ -2,7 +2,7 @@
 layout: index
 title: Primitive Solutions
 permalink: /primitive-solutions/
-tags: "primitive"
+tag: "primitive"
 ---
 
 # Test
