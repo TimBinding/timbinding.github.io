@@ -100,36 +100,36 @@ Look for energy star from american projects
 https://appliance.report/
 https://www.energystar.gov/products/products_list
 
--- Maps and data --
-Electricity usage in the last 12 months:
+### Maps and Data
+#### Electricity usage in the last 12 months:
 https://www.mygridgb.co.uk/last-12-months/
 https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract
 
-Renewables:
+#### Renewables
 https://www.mygridgb.co.uk/map/
 https://renewables-map.robinhawkes.com/#5.4/53.982/-1.652
 
-None gas map UK:
+#### None gas map UK:
 https://www.nongasmap.org.uk/
 
-Zero waste maps:
+#### Zero waste maps:
 https://zerowastemap.org/
 
-Recycling rates:
+#### Recycling rates:
 https://en.wikipedia.org/wiki/Recycling_rates_by_country
 
-CO2 UK:
+#### CO2 UK:
 https://ourworldindata.org/co2/country/united-kingdom
 
-Electric vehicle charging points:
+#### Electric vehicle charging points:
 https://www.carwow.co.uk/electric-cars/charging-points
 
 ### Relgion And History
 Why must we make these changes.
 
-Lockdowns:
-15 days of darkness to come?
+#### Lockdowns:
+15 days of darkness to come? Dimming of the sun.
 https://www.youtube.com/watch?v=q91EDPWGD7U
 
-Tradegy of progress:
+#### Tradegy of progress:
 https://www.youtube.com/watch?v=kCpzk-EDXSQ
