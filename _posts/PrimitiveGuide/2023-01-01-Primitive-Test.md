@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Primitive Test
+tags: "primitive"
 ---
 
 # Test
-Test success
+Test success 1
