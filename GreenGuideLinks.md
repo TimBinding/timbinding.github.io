@@ -8,128 +8,128 @@ permalink: /green-prep-guide-links/
 
 - Solar Panels
 - Solar Tile Roofing - Example: <https://www.gb-sol.co.uk/products/pvslates/default.htm>
-
-- Direction of sun:
+<br>
+Direction of sun:<br>
 <https://sun-direction.com/>
 
-Solar panel calculator:
+Solar panel calculator:<br>
 <https://energysavingtrust.org.uk/tool/solar-energy-calculator/>
 
-Smart Export Guarantee (SEG):
+Smart Export Guarantee (SEG):<br>
 <https://solarenergyuk.org/resource/smart-export-guarantee/>
 
-Some example places to buy solar panels (usually you can get in contact with the solar panel company):
-<https://www.sunstore.co.uk/>
-<https://www.amazon.co.uk/s?k=solar+panels&ref=nb_sb_noss_1>
-<https://www.sunshinesolar.co.uk/>
-<https://carbatterymarket.co.uk/accessories/off-grid-energy/solar-panels/>
+Some example places to buy solar panels (usually you can get in contact with the solar panel company):<br>
+<https://www.sunstore.co.uk/><br>
+<https://www.amazon.co.uk/s?k=solar+panels&ref=nb_sb_noss_1><br>
+<https://www.sunshinesolar.co.uk/><br>
+<https://carbatterymarket.co.uk/accessories/off-grid-energy/solar-panels/><br>
 
-Solar panel quotes:
-<https://www.greenmatch.co.uk/blog/2014/08/what-is-the-installation-cost-for-solar-panels>
-<https://www.greenmatch.co.uk/solar-energy/solar-panels>
+Solar panel quotes:<br>
+<https://www.greenmatch.co.uk/blog/2014/08/what-is-the-installation-cost-for-solar-panels><br>
+<https://www.greenmatch.co.uk/solar-energy/solar-panels><br>
 
 ### Recycling
-Terracycle:
-<https://www.youtube.com/watch?v=o5JqrdxnZfg>
-<https://www.terracycle.com/en-GB/about-terracycle/drop_off_locations#@51.44682577439605:-3.2058064978942813zoom:12&1-20of18>
+Terracycle:<br>
+<https://www.youtube.com/watch?v=o5JqrdxnZfg><br>
+<https://www.terracycle.com/en-GB/about-terracycle/drop_off_locations#@51.44682577439605:-3.2058064978942813zoom:12&1-20of18><br>
 
-Tells you how to recycle a particular item based on where you live:
-<https://www.walesrecycles.org.uk/>
+Tells you how to recycle a particular item based on where you live:<br>
+<https://www.walesrecycles.org.uk/><br>
 
 ### Heating
-Along with solar panels having electric boilers instead will save you money.
-Electric boilers:
-<https://www.electric-heatingcompany.co.uk/electric-boilers/>
-<https://www.screwfix.com/c/heating-plumbing/boilers/cat6660001?calcfueltype=electric>
-<https://www.plumbnation.co.uk/electric-boilers-168-0000>
+Along with solar panels having electric boilers instead will save you money.<br>
+Electric boilers:<br>
+<https://www.electric-heatingcompany.co.uk/electric-boilers/><br>
+<https://www.screwfix.com/c/heating-plumbing/boilers/cat6660001?calcfueltype=electric><br>
+<https://www.plumbnation.co.uk/electric-boilers-168-0000><br>
 
 ### Water
-Water harvesting:
-<https://rainharvesting.co.uk/>
-<https://www.rainwaterharvesting.co.uk/>
-<https://www.graf.info/en-gb/>
-<https://www.directwatertanks.co.uk/rainwater-harvesting>
-<https://www.tanks-direct.co.uk/water-tanks/rainwater-harvesting/c874>
-Thorne Rainwater Systems Ltd
-<https://atlantistanks.co.uk/>
-<https://www.celticsustainables.co.uk/rainwater-harvesting-systems/>
-<https://raincatcher.co.uk/>
-<https://www.freeflush.co.uk/collections/rainwater-harvesting-systems>
-<https://www.owlshall.co.uk/rainwater-harvesting/complete-systems/domestic/>
-<https://urban-water.co.uk/rainwater-harvesting/>
+Water harvesting:<br>
+<https://rainharvesting.co.uk/><br>
+<https://www.rainwaterharvesting.co.uk/><br>
+<https://www.graf.info/en-gb/><br>
+<https://www.directwatertanks.co.uk/rainwater-harvesting><br>
+<https://www.tanks-direct.co.uk/water-tanks/rainwater-harvesting/c874><br>
+Thorne Rainwater Systems Ltd<br>
+<https://atlantistanks.co.uk/><br>
+<https://www.celticsustainables.co.uk/rainwater-harvesting-systems/><br>
+<https://raincatcher.co.uk/><br>
+<https://www.freeflush.co.uk/collections/rainwater-harvesting-systems><br>
+<https://www.owlshall.co.uk/rainwater-harvesting/complete-systems/domestic/><br>
+<https://urban-water.co.uk/rainwater-harvesting/><br>
 
-Underground rainwater collection:
-<https://www.graf.info/en/rainwater-harvesting.html>
-<https://www.rainwatersolutions.co.uk/water-tanks/under-ground-water-tanks>
+Underground rainwater collection:<br>
+<https://www.graf.info/en/rainwater-harvesting.html><br>
+<https://www.rainwatersolutions.co.uk/water-tanks/under-ground-water-tanks><br>
 
 #### Water Usage
-<https://www.youtube.com/shorts/xDYbjdbcfas>
+<https://www.youtube.com/shorts/xDYbjdbcfas><br>
 
-Handheld Bidet Sprayer - <https://www.youtube.com/watch?v=9tdoXj_KkwE>
-OR
-Bidet for a cleaner BUTT - <https://www.youtube.com/watch?v=juilRGZXLwM>
+Handheld Bidet Sprayer - <https://www.youtube.com/watch?v=9tdoXj_KkwE><br>
+OR<br>
+Bidet for a cleaner BUTT - <https://www.youtube.com/watch?v=juilRGZXLwM><br>
 
 ### Food
-Baking bread method (adapt recipe to suit needs):
-<https://www.youtube.com/watch?v=GuPoDEswQGQ>
+Baking bread method (adapt recipe to suit needs):<br>
+<https://www.youtube.com/watch?v=GuPoDEswQGQ><br>
 
 ### Buying Used
 
 #### Used Clothing
-Shopping at charity shops
+Shopping at charity shops<br>
 
-Thrift stores uk:
-<https://www.vinted.co.uk/>
-<https://preworn.ltd>
-<https://re-fashion.co.uk/>
-<https://www.thrifted.com/>
-<https://www.theclearoutstore.co.uk/>
-<https://thrift.plus/>
-<https://www.beyondretro.com/collections/men?gender=Gender%3Amen>
-<https://gothrift.co.uk/>
+Thrift stores uk:<br>
+<https://www.vinted.co.uk/><br>
+<https://preworn.ltd><br>
+<https://re-fashion.co.uk/><br>
+<https://www.thrifted.com/><br>
+<https://www.theclearoutstore.co.uk/><br>
+<https://thrift.plus/><br>
+<https://www.beyondretro.com/collections/men?gender=Gender%3Amen><br>
+<https://gothrift.co.uk/><br>
 
 #### Used Items
-<https://www.gumtree.com/>
-Benthyg Cymru - <https://penarth.benthyg.cymru/>
-<https://www.preloved.co.uk/>
-<https://www.for-sale.co.uk/>
-<https://www.shpock.com/en-gb>
+<https://www.gumtree.com/><br>
+Benthyg Cymru - <https://penarth.benthyg.cymru/><br>
+<https://www.preloved.co.uk/><br>
+<https://www.for-sale.co.uk/><br>
+<https://www.shpock.com/en-gb><br>
 
 #### Buying Appliances
-Look for energy star from american projects
-<https://appliance.report/>
-<https://www.energystar.gov/products/products_list>
+Look for energy star from american appliances.<br>
+<https://appliance.report/><br>
+<https://www.energystar.gov/products/products_list><br>
 
 ### Maps and Data
 #### Electricity usage in the last 12 months:
-<https://www.mygridgb.co.uk/last-12-months/>
-<https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract>
+<https://www.mygridgb.co.uk/last-12-months/><br>
+<https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract><br>
 
 #### Renewables
-<https://www.mygridgb.co.uk/map/>
-<https://renewables-map.robinhawkes.com/#5.4/53.982/-1.652>
+<https://www.mygridgb.co.uk/map/><br>
+<https://renewables-map.robinhawkes.com/#5.4/53.982/-1.652><br>
 
 #### None gas map UK:
-<https://www.nongasmap.org.uk/>
+<https://www.nongasmap.org.uk/><br>
 
 #### Zero waste maps:
-<https://zerowastemap.org/>
+<https://zerowastemap.org/><br>
 
 #### Recycling rates:
-<https://en.wikipedia.org/wiki/Recycling_rates_by_country>
+<https://en.wikipedia.org/wiki/Recycling_rates_by_country><br>
 
 #### CO2 UK:
-<https://ourworldindata.org/co2/country/united-kingdom>
+<https://ourworldindata.org/co2/country/united-kingdom><br>
 
 #### Electric vehicle charging points:
-<https://www.carwow.co.uk/electric-cars/charging-points>
+<https://www.carwow.co.uk/electric-cars/charging-points><br>
 
 ### Relgion And History
-<p>Why must we make <br> these changes.</p>
+Why must we make these changes.<br>
 
 #### Tradegy of progress
-Isaiah 17:9-11
-<https://www.youtube.com/watch?v=kCpzk-EDXSQ>
+Isaiah 17:9-11<br>
+<https://www.youtube.com/watch?v=kCpzk-EDXSQ><br>
 
 #### Lockdowns
-<https://www.youtube.com/watch?v=q91EDPWGD7U>
+<https://www.youtube.com/watch?v=q91EDPWGD7U><br>
