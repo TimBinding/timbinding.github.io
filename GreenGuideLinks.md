@@ -67,7 +67,7 @@ Underground rainwater collection:<br>
 
 Handheld Bidet Sprayer - <https://www.youtube.com/watch?v=9tdoXj_KkwE><br>
 OR<br>
-Bidet for a cleaner BUTT - <https://www.youtube.com/watch?v=juilRGZXLwM><br>
+Bidet replacement for toliet paper - <https://www.youtube.com/watch?v=juilRGZXLwM><br>
 
 ### Food
 Baking bread method (adapt recipe to suit needs):<br>
