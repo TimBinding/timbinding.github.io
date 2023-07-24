@@ -6,5 +6,8 @@ This guide contains both solutions from both technological and primitive standpo
 
 It is advised that you make this your life focus until you get on top of this.
 
+This guide is very UK spesfic but tries to be universal wherever it can.
+
 Goal:
 Create self-sustaining communities.
+
