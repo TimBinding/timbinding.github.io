@@ -1,5 +1,3 @@
-Disclaimer:
-
 The information provided on timbinding@github.io (the "Blog") is for general informational purposes only. While we strive to provide accurate and up-to-date information, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the Blog or the information, products, services, or related graphics contained on the Blog for any purpose. 
 
 Any reliance you place on such information is strictly at your own risk. We will not be liable for any loss or damage, including but not limited to indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this Blog.
