@@ -14,7 +14,7 @@ https://www.recyclenow.com/recycle-an-item/plastic-bags-and-wrapping#locator
 Tells you how to recycle a particular item based on where you live in wales:<br>
 <https://www.walesrecycles.org.uk/><br>
 
-#### Recycling rates:
+#### Recycling rates
 <https://en.wikipedia.org/wiki/Recycling_rates_by_country/><br>
 
 #### Recycling Statistics
