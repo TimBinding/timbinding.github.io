@@ -5,10 +5,11 @@ title: Tech Links
 
 ### Electric Generation
 
+#### Solar Panels
 - Solar Panels
-- Solar Tile Roofing - Example: <https://www.gb-sol.co.uk/products/pvslates/default.htm/>
-<br>
-Direction of sun:<br>
+- Solar Tile Roofing - Example: <https://www.gb-sol.co.uk/products/pvslates/default.htm/><br>
+
+Direction of sun:
 <https://sun-direction.com/>
 
 Solar panel calculator:<br>
@@ -68,6 +69,9 @@ Baking bread method (adapt recipe to suit needs):<br>
 #### Electricity usage in the last 12 months:
 <https://www.mygridgb.co.uk/last-12-months/><br>
 <https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract/><br>
+
+#### Electric by source
+<https://ourworldindata.org/grapher/electricity-prod-source-stacked?country=~GBR/>
 
 #### Renewables
 <https://www.mygridgb.co.uk/map/><br>

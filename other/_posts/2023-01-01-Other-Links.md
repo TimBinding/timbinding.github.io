@@ -8,8 +8,8 @@ Terracycle:<br>
 <https://www.youtube.com/watch?v=o5JqrdxnZfg/><br>
 <https://www.terracycle.com/en-GB/about-terracycle/drop_off_locations#@51.44682577439605:-3.2058064978942813zoom:12&1-20of18/><br>
 
-Recycling soft plastics e.g. chocolate wrappers, crisps, etc...:
-https://www.recyclenow.com/recycle-an-item/plastic-bags-and-wrapping#locator
+Recycling soft plastics (e.g. chocolate wrappers, crisps, etc...):
+<https://www.recyclenow.com/recycle-an-item/plastic-bags-and-wrapping#locator/><br>
 
 Tells you how to recycle a particular item based on where you live in wales:<br>
 <https://www.walesrecycles.org.uk/><br>
@@ -65,6 +65,8 @@ Thrift stores uk:<br>
 <https://thrift.plus/><br>
 <https://www.beyondretro.com/collections/men?gender=Gender%3Amen/><br>
 <https://gothrift.co.uk/><br>
+Poshmark
+Thredup
 
 #### Used Items
 <https://www.gumtree.com/><br>
@@ -75,8 +77,8 @@ Thrift stores uk:<br>
 #### Borrowing
 You can donate unwanted items to organizations that do borrowing.
 
-##### Benthyg Cymru:
-<https://www.benthyg-cymru.org/>
+Benthyg Cymru:
+<https://www.benthyg-cymru.org/><br>
 <https://penarth.benthyg.cymru/><br>
 
 #### Buying Appliances
