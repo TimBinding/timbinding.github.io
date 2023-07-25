@@ -26,7 +26,10 @@ Tells you how to recycle a particular item based on where you live in wales:<br>
 Not all zero waste stores or facilities are on this list or map:
 <https://ecothriftyliving.com/2019/10/over-100-zero-waste-shops-in-the-uk.html/><br>
 
-#### Zero waste map:
+#### Zero waste tips
+<https://www.youtube.com/watch?v=nmMtH3Md7s8/>
+
+#### Zero waste map
 Make sure to look around and ask for any where that might do this.
 <https://zerowastemap.org/><br>
 
