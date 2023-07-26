@@ -9,10 +9,10 @@ title: Tech Links
 - Solar Panels
 - Solar Tile Roofing - Example: <https://www.gb-sol.co.uk/products/pvslates/default.htm/><br>
 
-Direction of sun:
-<https://sun-direction.com/>
+Direction Of Sun:<br>
+<https://sun-direction.com/><br>
 
-Solar panel calculator:<br>
+Solar Panel Calculator:<br>
 <https://energysavingtrust.org.uk/tool/solar-energy-calculator/>
 
 Smart Export Guarantee (SEG):<br>
@@ -24,9 +24,17 @@ Some example places to buy solar panels (usually you can get in contact with the
 <https://www.sunshinesolar.co.uk/><br>
 <https://carbatterymarket.co.uk/accessories/off-grid-energy/solar-panels/><br>
 
-Solar panel quotes:<br>
+Solar Panel Quotes:<br>
 <https://www.greenmatch.co.uk/blog/2014/08/what-is-the-installation-cost-for-solar-panels/><br>
 <https://www.greenmatch.co.uk/solar-energy/solar-panels/><br>
+
+#### Wind Generation
+Ridge Blade:<br>
+<https://ridgeblade.com/><br>
+
+Direction Of Wind:<br>
+<https://www.xcweather.co.uk/gb/forecast/><br>
+<https://www.metoffice.gov.uk/weather/maps-and-charts/wind-map/><br>
 
 ### Heating
 Along with solar panels having electric boilers instead will save you money.<br>
@@ -50,7 +58,7 @@ Thorne Rainwater Systems Ltd<br>
 <https://www.owlshall.co.uk/rainwater-harvesting/complete-systems/domestic/><br>
 <https://urban-water.co.uk/rainwater-harvesting/><br>
 
-Underground rainwater collection:<br>
+Rainwater collection with underground tanks:<br>
 <https://www.graf.info/en/rainwater-harvesting.html/><br>
 <https://www.rainwatersolutions.co.uk/water-tanks/under-ground-water-tanks/><br>
 

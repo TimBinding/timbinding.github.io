@@ -65,8 +65,8 @@ Thrift stores uk:<br>
 <https://thrift.plus/><br>
 <https://www.beyondretro.com/collections/men?gender=Gender%3Amen/><br>
 <https://gothrift.co.uk/><br>
-Poshmark
-Thredup
+<https://www.thredup.com/><br>
+<https://poshmark.com/><br>
 
 #### Used Items
 <https://www.gumtree.com/><br>
@@ -85,6 +85,7 @@ Benthyg Cymru:
 Look for energy star from american appliances.<br>
 <https://appliance.report/><br>
 <https://www.energystar.gov/products/products_list/><br>
+
 
 
 
