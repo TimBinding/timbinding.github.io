@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech Introduction
+title: Technology Introduction
 ---
 
 Technology change is not a solution on its own.
