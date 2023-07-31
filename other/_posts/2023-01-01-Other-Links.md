@@ -20,6 +20,12 @@ Tells you how to recycle a particular item based on where you live in wales:<br>
 #### Recycling Statistics
 <https://myrecyclingwales.org.uk/local-authorities/>
 
+#### Composting
+<https://directcompostsolutions.com/8-methods-composting/>
+
+A map of places to send to community composters:
+<https://sharewaste.com/share-waste/>
+
 ### Zero Waste
 <https://www.youtube.com/watch?v=B5ijPk5_8pM/><br>
 
@@ -86,6 +92,8 @@ Look for energy star from american appliances.<br>
 <https://appliance.report/><br>
 <https://www.energystar.gov/products/products_list/><br>
 
+### Decluttering and Minimalism
+<https://enviromom.com/sustainable-decluttering/><br>
 
 
 
@@ -100,5 +108,4 @@ Isaiah 17:9-11<br>
 #### Lockdowns
 <https://www.youtube.com/watch?v=q91EDPWGD7U/><br>
 
-
-
+####

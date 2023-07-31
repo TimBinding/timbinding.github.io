@@ -28,6 +28,9 @@ Solar Panel Quotes:<br>
 <https://www.greenmatch.co.uk/blog/2014/08/what-is-the-installation-cost-for-solar-panels/><br>
 <https://www.greenmatch.co.uk/solar-energy/solar-panels/><br>
 
+Infomation about solar panels:<br>
+<https://www.renewableenergyhub.co.uk/main/solar-panels/how-much-do-solar-panel-systems-cost/><br>
+
 #### Wind Generation
 Ridge Blade:<br>
 <https://ridgeblade.com/><br>
