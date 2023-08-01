@@ -62,7 +62,6 @@ Shopping at charity shops.<br>
 Their are a number of online shops which will give you money for the weight of clothes you give them.<br>
 The goal is to create a circular economy.
 
-Thrift stores uk:<br>
 <https://www.vinted.co.uk/><br>
 <https://preworn.ltd/><br>
 <https://re-fashion.co.uk/><br>
@@ -80,6 +79,16 @@ Thrift stores uk:<br>
 <https://www.for-sale.co.uk/><br>
 <https://www.shpock.com/en-gb/><br>
 
+#### Get or giveaway free items
+<https://www.gumtree.com/for-sale/freebies/uk/srpsearch+give+away/><br>
+<https://www.freecycle.org/><br>
+<https://trashnothing.com/beta/browse/><br>
+<https://www.preloved.co.uk/freeloved/><br>
+
+#### Buying used computers
+<https://www.stonerefurb.co.uk/><br>
+</>
+
 #### Borrowing
 You can donate unwanted items to organizations that do borrowing.
 
@@ -96,7 +105,8 @@ Look for energy star from american appliances.<br>
 <https://enviromom.com/sustainable-decluttering/><br>
 
 
-
+### Washing Clothes
+<https://morningchores.com/manual-washing-machine/><br>
 
 ### Relgion And History
 Why must we make these changes.<br>
