@@ -26,6 +26,9 @@ Tells you how to recycle a particular item based on where you live in wales:<br>
 A map of places to send to community composters:
 <https://sharewaste.com/share-waste/>
 
+Worm farm:
+https://treadingmyownpath.com/2018/08/16/dog-poo-worm-farm/
+
 ### Zero Waste
 <https://www.youtube.com/watch?v=B5ijPk5_8pM/><br>
 

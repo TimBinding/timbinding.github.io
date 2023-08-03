@@ -13,10 +13,10 @@ Direction Of Sun:<br>
 <https://sun-direction.com/><br>
 
 Solar Panel Calculator:<br>
-<https://energysavingtrust.org.uk/tool/solar-energy-calculator/>
+<https://energysavingtrust.org.uk/tool/solar-energy-calculator/><br>
 
 Smart Export Guarantee (SEG):<br>
-<https://solarenergyuk.org/resource/smart-export-guarantee/>
+<https://solarenergyuk.org/resource/smart-export-guarantee/><br>
 
 Some example places to buy solar panels (usually you can get in contact with the solar panel company):<br>
 <https://www.sunstore.co.uk/><br>
@@ -82,7 +82,10 @@ Baking bread method (adapt recipe to suit needs):<br>
 <https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract/><br>
 
 #### Electric by source
-<https://ourworldindata.org/grapher/electricity-prod-source-stacked?country=~GBR/>
+<https://ourworldindata.org/grapher/electricity-prod-source-stacked?country=~GBR/><br>
+
+#### Electric map
+<https://app.electricitymaps.com/zone/AU-TAS-FI/><br>
 
 #### Renewables
 <https://www.mygridgb.co.uk/map/><br>
@@ -96,3 +99,12 @@ Baking bread method (adapt recipe to suit needs):<br>
 
 #### Electric vehicle charging points:
 <https://www.carwow.co.uk/electric-cars/charging-points/><br>
+<https://www.zap-map.com/live/><br>
+
+
+
+
+
+
+#### Induction Vs Ceramic:
+https://www.youtube.com/watch?v=H1mb0GgP7s0
