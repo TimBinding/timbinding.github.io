@@ -96,12 +96,14 @@ Baking bread method (adapt recipe to suit needs):<br>
 
 #### CO2 UK:
 <https://ourworldindata.org/co2/country/united-kingdom/><br>
+<https://globalcarbonatlas.org/emissions/carbon-emissions/><br>
 
 #### Electric vehicle charging points:
 <https://www.carwow.co.uk/electric-cars/charging-points/><br>
 <https://www.zap-map.com/live/><br>
 
-
+#### Fuel Consumption
+https://ourworldindata.org/grapher/fossil-fuel-primary-energy?tab=chart
 
 
 

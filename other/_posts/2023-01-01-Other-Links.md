@@ -54,10 +54,12 @@ Foods that are going to be thrown away but their super cheap
 
 ### Homes
 #### Tiny Homes
-<https://www.youtube.com/watch?v=CsA4nHsynS0/><br>
+<https://www.youtube.com/watch?v=WgCm9jEUswg/><br>
+<https://www.youtube.com/@livingbig/videos/><br>
 <https://www.tinyecohomesuk.com/><br>
 <https://www.tinyhouseenvy.com/><br>
 <https://fairhousingforfrome.org.uk/tiny-homes-useful-links/><br>
+<http://www.tinyhouseuk.co.uk/buy-a-tiny-house-cabin.html/><br>
 
 ### Buying / selling Used
 #### Used Clothing
@@ -90,7 +92,6 @@ The goal is to create a circular economy.
 
 #### Buying used computers
 <https://www.stonerefurb.co.uk/><br>
-</>
 
 #### Borrowing
 You can donate unwanted items to organizations that do borrowing.
