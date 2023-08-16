@@ -67,7 +67,9 @@ Rainwater collection with underground tanks:<br>
 
 #### Water Usage
 <https://www.youtube.com/shorts/xDYbjdbcfas/><br>
+<https://www.youtube.com/watch?v=zdDrqFk8WRk><br>
 
+#### Water Bidet Installation
 Handheld Bidet Sprayer - <https://www.youtube.com/watch?v=9tdoXj_KkwE/><br>
 OR<br>
 Bidet replacement for toliet paper - <https://www.youtube.com/watch?v=juilRGZXLwM/><br>

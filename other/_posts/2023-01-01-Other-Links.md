@@ -112,6 +112,27 @@ Look for energy star from american appliances.<br>
 ### Washing Clothes
 <https://morningchores.com/manual-washing-machine/><br>
 
+
+
+
+
+### Habits
+<https://www.ecofriendlyhabits.com/how-to-be-eco-friendly/><br>
+<https://uk.pelacase.com/blogs/news/100-easy-ways-to-be-more-eco-friendly?shpxid=9bd90bf6-3934-4691-bd50-af76a836b9d3><br>
+
+### Repairing
+<https://repaircafewales.org/>
+
+
+
+
+
+
+
+
+
+
+
 ### Relgion And History
 Why must we make these changes.<br>
 
