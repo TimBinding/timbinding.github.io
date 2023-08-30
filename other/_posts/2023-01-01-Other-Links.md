@@ -61,6 +61,9 @@ Foods that are going to be thrown away but their super cheap
 <https://fairhousingforfrome.org.uk/tiny-homes-useful-links/><br>
 <http://www.tinyhouseuk.co.uk/buy-a-tiny-house-cabin.html/><br>
 
+#### Boat Homes
+<https://www.youtube.com/watch?v=KQoiVskWtsk/><br>
+
 ### Buying / selling Used
 #### Used Clothing
 Shopping at charity shops.<br>

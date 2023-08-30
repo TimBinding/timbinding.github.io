@@ -39,6 +39,9 @@ Direction Of Wind:<br>
 <https://www.xcweather.co.uk/gb/forecast/><br>
 <https://www.metoffice.gov.uk/weather/maps-and-charts/wind-map/><br>
 
+#### Hydro Generation
+<https://www.youtube.com/watch?v=WJmzQKd_8sY><br>
+
 ### Heating
 Along with solar panels having electric boilers instead will save you money.<br>
 Electric boilers:<br>
