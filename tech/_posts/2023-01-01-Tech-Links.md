@@ -70,7 +70,8 @@ Rainwater collection with underground tanks:<br>
 
 #### Water Usage
 <https://www.youtube.com/shorts/xDYbjdbcfas/><br>
-<https://www.youtube.com/watch?v=zdDrqFk8WRk><br>
+<https://www.youtube.com/watch?v=zdDrqFk8WRk/><br>
+<https://www.youtube.com/watch?v=FpRtkP-kjMM/><br>
 
 #### Water Bidet Installation
 Handheld Bidet Sprayer - <https://www.youtube.com/watch?v=9tdoXj_KkwE/><br>
@@ -92,6 +93,9 @@ Baking bread method (adapt recipe to suit needs):<br>
 #### Electric map
 <https://app.electricitymaps.com/zone/AU-TAS-FI/><br>
 
+#### Coal countdown
+<https://www.powerstations.uk/coal-countdown/><br>
+
 #### Renewables
 <https://www.mygridgb.co.uk/map/><br>
 <https://renewables-map.robinhawkes.com/#5.4/53.982/-1.652/><br>
@@ -108,10 +112,10 @@ Baking bread method (adapt recipe to suit needs):<br>
 <https://www.zap-map.com/live/><br>
 
 #### Fuel Consumption
-https://ourworldindata.org/grapher/fossil-fuel-primary-energy?tab=chart
+<https://ourworldindata.org/grapher/fossil-fuel-primary-energy?tab=chart/><br>
 
 
 
 
 #### Induction Vs Ceramic:
-https://www.youtube.com/watch?v=H1mb0GgP7s0
+<https://www.youtube.com/watch?v=H1mb0GgP7s0/><br>

@@ -31,3 +31,6 @@ One of the most common forms of dialectic is Hegelianism:
 - Not using electrical appliances.
 - Drinking from the fresh water spring.
 - Cooking with wood fire.
+
+####
+Don't use your car or boiler
