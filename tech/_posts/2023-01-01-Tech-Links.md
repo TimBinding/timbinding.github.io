@@ -119,3 +119,12 @@ Baking bread method (adapt recipe to suit needs):<br>
 
 #### Induction Vs Ceramic:
 <https://www.youtube.com/watch?v=H1mb0GgP7s0/><br>
+
+#### Make sun tea
+<https://www.youtube.com/shorts/oqhKz1kYwbg/><br>
+
+#### Chrome power saving theme
+<https://chrome.google.com/webstore/detail/power-saver/jfhfaediacibhobdfjaemhdgljfgemki/><br>
+
+#### Energy usage tips
+<https://www.youtube.com/watch?v=c08GxvIhkGk/>
