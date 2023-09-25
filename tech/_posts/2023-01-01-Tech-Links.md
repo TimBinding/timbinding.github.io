@@ -107,6 +107,9 @@ Baking bread method (adapt recipe to suit needs):<br>
 <https://ourworldindata.org/co2/country/united-kingdom/><br>
 <https://globalcarbonatlas.org/emissions/carbon-emissions/><br>
 
+#### Methane Emissions:
+<https://ourworldindata.org/grapher/methane-emissions?tab=chart&country=GBR~USA/><br>
+
 #### Electric vehicle charging points:
 <https://www.carwow.co.uk/electric-cars/charging-points/><br>
 <https://www.zap-map.com/live/><br>
