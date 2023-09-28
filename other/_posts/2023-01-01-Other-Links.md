@@ -16,18 +16,19 @@ Tells you how to recycle a particular item based on where you live in wales:<br>
 
 #### Recycling rates
 <https://en.wikipedia.org/wiki/Recycling_rates_by_country/><br>
+<https://www.suez.co.uk/en-gb/our-offering/communities-and-individuals/recycling-in-the-uk/><br>
 
 #### Recycling Statistics
-<https://myrecyclingwales.org.uk/local-authorities/>
+<https://myrecyclingwales.org.uk/local-authorities/><br>
 
 #### Composting
-<https://directcompostsolutions.com/8-methods-composting/>
+<https://directcompostsolutions.com/8-methods-composting/><br>
 
 A map of places to send to community composters:
-<https://sharewaste.com/share-waste/>
+<https://sharewaste.com/share-waste/><br>
 
-Worm farm:
-https://treadingmyownpath.com/2018/08/16/dog-poo-worm-farm/
+##### Worm farm
+<https://treadingmyownpath.com/2018/08/16/dog-poo-worm-farm/><br>
 
 ### Zero Waste
 <https://www.youtube.com/watch?v=B5ijPk5_8pM/><br>
@@ -36,7 +37,7 @@ Not all zero waste stores or facilities are on this list or map:
 <https://ecothriftyliving.com/2019/10/over-100-zero-waste-shops-in-the-uk.html/><br>
 
 #### Zero waste tips
-<https://www.youtube.com/watch?v=nmMtH3Md7s8/>
+<https://www.youtube.com/watch?v=nmMtH3Md7s8/><br>
 
 #### Zero waste map
 Make sure to look around and ask for any where that might do this.
@@ -45,7 +46,7 @@ Make sure to look around and ask for any where that might do this.
 ### Reducing Food Waste
 #### Donating to a food bank
 <https://www.bankuet.co.uk/find-a-foodbank/><br>
-<https://www.trusselltrust.org/get-help/find-a-foodbank/>
+<https://www.trusselltrust.org/get-help/find-a-foodbank/><br>
 
 #### Clearence Shopping
 Foods that are going to be thrown away but their super cheap
@@ -99,7 +100,7 @@ The goal is to create a circular economy.
 #### Borrowing
 You can donate unwanted items to organizations that do borrowing.
 
-Benthyg Cymru:
+##### Benthyg Cymru
 <https://www.benthyg-cymru.org/><br>
 <https://penarth.benthyg.cymru/><br>
 
@@ -110,7 +111,6 @@ Look for energy star from american appliances.<br>
 
 ### Decluttering and Minimalism
 <https://enviromom.com/sustainable-decluttering/><br>
-
 
 ### Washing Clothes
 <https://morningchores.com/manual-washing-machine/><br>
@@ -124,26 +124,7 @@ Look for energy star from american appliances.<br>
 <https://uk.pelacase.com/blogs/news/100-easy-ways-to-be-more-eco-friendly?shpxid=9bd90bf6-3934-4691-bd50-af76a836b9d3><br>
 
 ### Repairing
-<https://repaircafewales.org/>
+<https://repaircafewales.org/><br>
 
-
-
-
-
-
-
-
-
-
-
-### Relgion And History
-Why must we make these changes.<br>
-
-#### Tradegy of progress
-Isaiah 17:9-11<br>
-<https://www.youtube.com/watch?v=kCpzk-EDXSQ/><br>
-
-#### Lockdowns
-<https://www.youtube.com/watch?v=q91EDPWGD7U/><br>
-
-####
+#### Climate Calculator
+<https://climate-calculator.climatehero.me/?source=MicrosoftAds/><br>
