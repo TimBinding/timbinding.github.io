@@ -131,3 +131,6 @@ Baking bread method (adapt recipe to suit needs):<br>
 
 #### Energy usage tips
 <https://www.youtube.com/watch?v=c08GxvIhkGk/>
+
+#### Energy consumption by source
+<https://ourworldindata.org/grapher/energy-consumption-by-source-and-country?country=GBR~USA~SWE~NOR/>
