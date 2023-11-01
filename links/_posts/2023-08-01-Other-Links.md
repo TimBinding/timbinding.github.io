@@ -115,6 +115,8 @@ Look for energy star from american appliances.<br>
 ### Washing Clothes
 <https://morningchores.com/manual-washing-machine/><br>
 
+#### Circular Cconomy
+<https://www.walescirculareconomy.com/><br>
 
 
 

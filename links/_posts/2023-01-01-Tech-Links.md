@@ -133,4 +133,5 @@ Baking bread method (adapt recipe to suit needs):<br>
 <https://www.youtube.com/watch?v=c08GxvIhkGk/>
 
 #### Energy consumption by source
+<https://ourworldindata.org/energy-production-consumption/>
 <https://ourworldindata.org/grapher/energy-consumption-by-source-and-country?country=GBR~USA~SWE~NOR/>
