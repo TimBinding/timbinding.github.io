@@ -126,6 +126,7 @@ Look for energy star from american appliances.<br>
 <https://uk.pelacase.com/blogs/news/100-easy-ways-to-be-more-eco-friendly?shpxid=9bd90bf6-3934-4691-bd50-af76a836b9d3><br>
 
 ### Repairing
+<https://www.repaircafe.org/en/visit/><br>
 <https://repaircafewales.org/><br>
 
 #### Climate Calculator
@@ -133,3 +134,4 @@ Look for energy star from american appliances.<br>
 
 
 <https://carboncopy.eco/local-climate-action/><br>
+<https://www.buycott.com/><br>
