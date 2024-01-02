@@ -135,3 +135,6 @@ Look for energy star from american appliances.<br>
 
 <https://carboncopy.eco/local-climate-action/><br>
 <https://www.buycott.com/><br>
+
+https://www.youtube.com/watch?v=tbq6uZ9Y0nQ
+https://www.youtube.com/watch?v=VrGUTFVmlp8

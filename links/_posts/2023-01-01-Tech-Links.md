@@ -115,6 +115,7 @@ Baking bread method (adapt recipe to suit needs):<br>
 <https://www.zap-map.com/live/><br>
 
 #### Fuel Consumption
+<https://ourworldindata.org/grapher/energy-consumption-by-source-and-country?stackMode=absolute&country=~GBR/>
 <https://ourworldindata.org/grapher/fossil-fuel-primary-energy?tab=chart/><br>
 
 
@@ -134,4 +135,4 @@ Baking bread method (adapt recipe to suit needs):<br>
 
 #### Energy consumption by source
 <https://ourworldindata.org/energy-production-consumption/>
-<https://ourworldindata.org/grapher/energy-consumption-by-source-and-country?country=GBR~USA~SWE~NOR/>
+<https://ourworldindata.org/grapher/energy-consumption-by-source-and-country?country=GBR~USA~SWE~NOR/><>
