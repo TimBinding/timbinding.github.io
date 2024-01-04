@@ -88,7 +88,8 @@ Baking bread method (adapt recipe to suit needs):<br>
 <https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract/><br>
 
 #### Electric by source
-<https://ourworldindata.org/grapher/electricity-prod-source-stacked?country=~GBR/><br>
+<https://ourworldindata.org/grapher/electricity-prod-source-stacked?country=~GBR><br>
+<https://ourworldindata.org/grapher/energy-consumption-by-source-and-country?stackMode=absolute&country=~GBR><br>
 
 #### Electric map
 <https://app.electricitymaps.com/zone/AU-TAS-FI/><br>
@@ -115,7 +116,6 @@ Baking bread method (adapt recipe to suit needs):<br>
 <https://www.zap-map.com/live/><br>
 
 #### Fuel Consumption
-<https://ourworldindata.org/grapher/energy-consumption-by-source-and-country?stackMode=absolute&country=~GBR/>
 <https://ourworldindata.org/grapher/fossil-fuel-primary-energy?tab=chart/><br>
 
 
@@ -131,8 +131,8 @@ Baking bread method (adapt recipe to suit needs):<br>
 <https://chrome.google.com/webstore/detail/power-saver/jfhfaediacibhobdfjaemhdgljfgemki/><br>
 
 #### Energy usage tips
-<https://www.youtube.com/watch?v=c08GxvIhkGk/>
+<https://www.youtube.com/watch?v=c08GxvIhkGk/><br>
 
 #### Energy consumption by source
-<https://ourworldindata.org/energy-production-consumption/>
-<https://ourworldindata.org/grapher/energy-consumption-by-source-and-country?country=GBR~USA~SWE~NOR/><>
+<https://ourworldindata.org/energy-production-consumption/><br>
+<https://ourworldindata.org/grapher/energy-consumption-by-source-and-country?country=GBR~USA~SWE~NOR/><br>
