@@ -121,6 +121,12 @@ Look for energy star from american appliances.<br>
 
 
 
+
+#### Allegory of Climate Change
+<https://www.youtube.com/watch?v=vjmG1_AX0j4/><br>
+
+
+
 ### Habits
 <https://www.ecofriendlyhabits.com/how-to-be-eco-friendly/><br>
 <https://uk.pelacase.com/blogs/news/100-easy-ways-to-be-more-eco-friendly?shpxid=9bd90bf6-3934-4691-bd50-af76a836b9d3><br>
