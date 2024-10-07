@@ -144,3 +144,7 @@ Look for energy star from american appliances.<br>
 
 https://www.youtube.com/watch?v=tbq6uZ9Y0nQ
 https://www.youtube.com/watch?v=VrGUTFVmlp8
+
+
+#### Passive design
+<https://www.arch2o.com/passive-cooling-systems/><br>
